@@ -39,6 +39,7 @@ Lucide React Icons	Modern icon set
 FakeStore API	Product data
 localStorage	Cart persistence
 🏗️ Project Structure
+``` bash
 src/
 │
 ├── components/
@@ -56,7 +57,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
+``` 
 ## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/furqan934/smit-hackathon.git
