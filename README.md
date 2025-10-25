@@ -1,9 +1,9 @@
-🛍️ MiniShop – Hackathon E-Commerce Web App
+## 🛍️ MiniShop – Hackathon E-Commerce Web App
 
 A modern, fully responsive mini e-commerce site built using React + Vite + Tailwind CSS.
 This project was created as part of the SMIT Hackathon to showcase frontend development, clean UI design, and state management with React Context API.
 
-🚀 Features
+## 🚀 Features
 🧩 Core Functionality
 
 🏠 Home Page – Displays all products fetched from the FakeStore API
@@ -30,7 +30,7 @@ Includes search, category, and price filters.
 
 🧭 Scroll-to-Top Button for seamless navigation.
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Technology	Purpose
 React (Vite)	Component-based UI framework
 Tailwind CSS	Utility-first styling and responsiveness
@@ -57,7 +57,7 @@ src/
 ├── App.jsx
 └── main.jsx
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/furqan934/smit-hackathon.git
 cd smit-hackathon
@@ -97,12 +97,12 @@ dist
 
 Click Deploy 🚀
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
 Muhammad Furqan
 🎓 Front-End Developer | React Enthusiast | Tailwind UI Designer
 📍 SMIT Peshawar
-📧 youremail@example.com
+📧 furqanmf234@gmail.com.com
 
 🔗 GitHub
  | LinkedIn
